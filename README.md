@@ -1,4 +1,9 @@
 # Busca CEP 📌
+![GitHub repo size](https://img.shields.io/github/repo-size/LeonardoMarconi/buscaCep?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/LeonardoMarconi/buscaCep?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/LeonardoMarconi/buscaCep?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/LeonardoMarconi/buscaCep?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/LeonardoMarconi/buscaCep?style=for-the-badge)
 
 App Buscador de CEP
 
